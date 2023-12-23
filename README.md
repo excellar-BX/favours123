@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @favours123
+- 👋 Hi, my name is FAVOURS EXCELLENCE KEHINDE
+- I'm a frontend developer with proficiency in React js , React native, Html, Css, JavaScript,
+- Im currently working on an e-commerce website ; Oleson. You can collaborate with me in building this website
 - 👀 I’m interested in ...web development 
-- 🌱 I’m currently learning ...react and mern stack
-- 💞️ I’m looking to collaborate on my e-commerce web..oleson
+- 🌱 I’m currently learning ...mern stack
 - 📫 How to reach me excellenceay33@gmail.com
 
 <!---

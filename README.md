@@ -1,7 +1,7 @@
 - 👋 Hi, my name is FAVOURS EXCELLENCE KEHINDE
 - I'm a frontend developer with proficiency in React js , React native, Html, Css, JavaScript,
+- I convert ui designs to code ✌️
 - Im currently working on an e-commerce website ; Oleson. You can collaborate with me in building this website
-- 👀 I’m interested in ...web development 
 - 🌱 I’m currently learning ...mern stack
 - 📫 How to reach me excellenceay33@gmail.com
 
